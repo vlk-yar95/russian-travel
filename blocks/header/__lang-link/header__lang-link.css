@@ -11,15 +11,6 @@
   text-align: right;
 }
 
-.header__lang-link:hover {
-  opacity: 0.5;
-  transition: 0.5s;
-}
-
-.header__lang-link {
-  transition: opacity 2s;
-}
-
 @media screen and (max-width: 767px) {
   .header__lang-link {
     width: 22px;
