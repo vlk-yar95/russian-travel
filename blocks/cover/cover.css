@@ -10,6 +10,7 @@
   background-image: url("../../images/cover-trains.jpg");
   background-size: cover;
   text-decoration: none;
+  background-position: center;
 }
 
 @media screen and (max-width: 1281px) {

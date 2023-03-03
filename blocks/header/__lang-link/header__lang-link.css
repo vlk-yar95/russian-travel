@@ -7,13 +7,11 @@
   line-height: 28px;
   text-decoration: none;
   display: flex;
-  max-width: 29px;
   text-align: right;
 }
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
-    width: 22px;
     font-size: 18px;
     line-height: 20px;
   }

@@ -4,12 +4,12 @@
   height: 100%;
   position: absolute;
   z-index: 1;
-  opacity: .2;
-  transition: opacity 2s;
+  opacity: .3;
+  transition: opacity 3s;
   text-decoration: none;
 }
 .cover:hover .cover__overlay {
-  opacity: 0.5;
+  opacity: .8;
   transition: 0.5s;
 }
 
